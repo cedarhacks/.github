@@ -1,12 +1,23 @@
-## Hi there 👋
+# 🌲 CedarHacks
 
-<!--
+Welcome to **CedarHacks** a cozy little corner of the internet where hobby electronics meet open source!  
+We make mostly **open-source hardware and software** designed for tinkerers, makers, and curious minds who love to take things apart (and put them back together).
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Projects
+
+Some of the things we’re working on:
+- **ReMapper** – a USB HID translator board that lets you remap keys, buttons, and controllers on the fly. Developements can be tracked in the devlog on our website.
+---
+
+## 🤝 How to Get Involved
+
+We’d love for you to join the CedarHacks community!
+- 🐛 **File issues** if you find bugs, weird behavior, or have suggestions.
+- 🔧 **Contribute** by sending PRs or sharing your own hacks based on our projects.
+- 💬 **Join the discussion** Feel free to email us if you want to talk about anything, merge requests are always welcome too!
+---
+
+Made with ❤️, coffee, and a lot of solder fumes.  
+Happy hacking! 🌲
