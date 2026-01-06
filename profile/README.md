@@ -8,7 +8,7 @@ We make mostly **open-source hardware and software** designed for tinkerers, mak
 ## 🚀 Projects
 
 Some of the things we’re working on:
-- **ReMapper** – a USB HID translator board that lets you remap keys, buttons, and controllers on the fly. Developements can be tracked in the devlog on our website.
+- **HIDMorph** – a USB HID translator board that lets you remap keys, buttons, and controllers on the fly. Developements can be tracked in the devlog on our website.
 ---
 
 ## 🤝 How to Get Involved
